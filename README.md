@@ -12,6 +12,7 @@ Reinforcement Learning Model for Traffic Signal
 Control](https://proceedings.neurips.cc/paper/2020/file/29e48b79ae6fc68e9b6480b677453586-Paper.pdf): Attention, REINFORCE
 
 
+- [Distributed PPO for Traffic Light Control with Multi-Agent RL](https://github.com/maxbren/Multi-Agent-Distributed-PPO-Traffc-light-control): PPO,MARL
 - https://traffic-signal-control.github.io: Another list of relevant papers
     
 ---
